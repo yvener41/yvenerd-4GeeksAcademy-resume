@@ -20,27 +20,24 @@ basic_info:
     
     # You have 1 paragraph to make a great impression, summarize your career
     summary: |
-      Summarize your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Junior web developer with a passion for coding and a commitment to lifelong learning. Proficient in HTML, CSS, JS, Python, SQL, React, I thrive in dynamic environments where I can apply my creativity and problem-solving skills to develop innovative web solutions. With a positive attitude and a strong desire to stay updated with the latest industry trends. 
 
-      Second paragraph if required.
+      I am eager to contribute to projects that push the boundaries of web development.
     
     # Your profile picture URL
     # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
-    avatar: https://randomuser.me/api/portraits/women/24.jpg
+    avatar: https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/433259264_7296875500432794_8983232137205769639_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VjtAJFUyo4oQ7kNvgHjgkHi&_nc_ht=scontent-hou1-1.xx&oh=00_AYA129UiT93ML7-jnDk3XsCmzRuw_8T1eZKh6CeTrDJVtQ&oe=665A9EF1
 
     # Contact Information
-    email: a@a.com #optional
-    phone: 234 2342 342 #optional
-    website: asd.com #optional
-    linkedin: alandoe #optional
+    email: dutervilyvener41@gmail.com #optional
+    phone: 7869170589 #optional
+    website: yvener.com #optional
+    linkedin: yvener41 #optional
     
     #
     # ******** IMPORTANT *******
     # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
-    github: example
+    github: yvener41
     
     twitter: 'webjeda' #optional
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -53,16 +50,16 @@ basic_info:
       - idiom: French
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Creole
+        level: Native
 
     # Interests or hobbies
     interests:
-      - item: Climbing
+      - item: Coding
 
-      - item: Snowboarding
+      - item: Video Game
 
-      - item: Cooking
+      - item: Music
 
 # Your previous education
 education:
